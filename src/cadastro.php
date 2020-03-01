@@ -19,7 +19,9 @@
         ?>
 
         <div class="row justify-content-center">
-            <form action="config-banco-dados.php" method="POST">
+       
+            <form action="model/config-banco-dados.php" method="POST">
+            <h2>Área de cadastramento </h2>
                 <input type="hidden" name="id" value="<?php echo $id; ?>">
                 <div class="form-group">
                 <label>Email</label>

@@ -43,7 +43,7 @@
                         <td>
                             <a href="index.php?editar=<?php echo $row ['id']; ?>"
                             class="btn btn-info">Editar</a>
-                            <a href="config-banco-dados.php?deletar=<?php echo $row['id']; ?>"
+                            <a href="model/config-banco-dados.php?deletar=<?php echo $row['id']; ?>"
                             class="btn btn-danger" >Deletar</a>
                         </td>
                     </tr> 

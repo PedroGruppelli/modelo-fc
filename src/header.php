@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
+
 <nav class="navbar navbar-expand-sm bg-primary navbar-dark justify-content-center">
         <a class="navbar-brand" href="index.php">
             <img src="logo.png" alt="logo" style="width:60px;">
